@@ -1,0 +1,112 @@
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws/8/xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws/8/xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Cep inválido!Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Cep inválido!Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Cep inválido!Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Cep inválido!Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)
+Cep inválido!Client error: `GET https://viacep.com.br/ws//xml/` resulted in a `400 Bad Request` response:
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <title>ViaCEP 400</title>
+  <meta charset="utf-8" />
+  <style type="text/c (truncated...)

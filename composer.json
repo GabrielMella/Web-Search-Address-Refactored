@@ -1,0 +1,23 @@
+{
+  "name": "vendor_name/cep",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "S4iph",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.5",
+    "ext-simplexml": "*",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CEP\\Service\\": "src/Service",
+      "CEP\\Model\\": "src/Model"
+    }
+  }
+}
